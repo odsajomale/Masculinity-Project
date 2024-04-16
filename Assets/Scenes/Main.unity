@@ -20567,8 +20567,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "The Winchester Model 1892\n\n lever-action, seen in classic Western films,
-    which presents masculinity through shooting first, asking questions later and
-    the nature of being solitary.\n\n\n\n"
+    which presents masculinity through acts of maschismo; shooting first, then asking
+    questions later and being solitary in nature."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
