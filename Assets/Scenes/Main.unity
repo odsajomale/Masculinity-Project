@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5938,7 +5938,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 388409396}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 125.5}
+  m_LocalPosition: {x: 0, y: 0, z: 140.68}
   m_LocalScale: {x: 0.13618034, y: 0.13618034, z: 0.13618034}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8760,8 +8760,8 @@ MonoBehaviour:
     "Daz.Jpeg" Who''s artstyle is rudimentary, simpilistic and easily digestable.
     Taking inspirations from artists such as Keith Haring with an obvious slogan
     featured within the artworks but the rebellious nature is likened to that of
-    the Dennis the menace cartoons. This artstyle is playful and fun, encapturing
-    a oppositioa and rebellious nature, which can be seen through exaggerated lines
+    the Dennis the menace comics. This artstyle is playful and fun, encapturing a
+    oppositioa and rebellious nature, which can be seen through exaggerated lines
     and rough scribbles.
 
 
@@ -15681,7 +15681,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3654d6b8841358049a7ccaf2540050ef, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 14455adb3da06e04e9263c7b39bedc15, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.736
   m_Pitch: 1
@@ -27313,7 +27313,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1535920759}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 125.5}
+  m_LocalPosition: {x: 0, y: 0, z: 140.68}
   m_LocalScale: {x: 0.13618034, y: 0.13618034, z: 0.13618034}
   m_ConstrainProportionsScale: 0
   m_Children: []
